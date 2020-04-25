@@ -30,7 +30,7 @@ if age < 2
 else
 	"not a baby"
 end 
-```
+
 
 Remember that if the condition associated with the `if` statement returns `true`, then the code underneath the conditional line will execute. If it fails however, then the code underneath the `else` will execute. In the above example, the value of the `age` variable is `1`; since this is less than `2`, the conditional will evaluate as `true` and will then return the string `"baby"`. 
 
